@@ -1,5 +1,6 @@
 🌿 Welcome to Serene-Flow
 Serene Schedule – Appointment Booking App
+
 A responsive web-based Appointment Booking System designed for wellness services like Spa, Therapy, Yoga, and Meditation. Built with a focus on calming aesthetics, luxurious UI, and smooth user interactions using Framer Motion and modern frontend design patterns.
 
 🔮 Features
